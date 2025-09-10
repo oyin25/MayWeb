@@ -4,7 +4,16 @@ Copyright (c) 2025 Hosted25 (oyin25)
 
 All rights reserved.
 
-This software is proprietary and is not open source. You may not
-modify, distribute, or reverse engineer it without prior written permission.
+This software is proprietary and is not open source. You may use the
+distributed binaries, but you may not copy, modify, decompile, reverse
+engineer, or redistribute MayWeb without prior written permission from
+the author.
 
-Binaries are provided for use as-is, without warranty of any kind.
+The software is provided "as is", without warranty of any kind, express
+or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose and noninfringement.
+In no event shall the authors or copyright holders be liable for any
+claim, damages or other liability, whether in an action of contract,
+tort or otherwise, arising from, out of or in connection with the
+software or the use or other dealings in the software.
+Source code is not published. Only prebuilt binaries are distributed via Releases.
