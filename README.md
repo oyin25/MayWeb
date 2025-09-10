@@ -103,11 +103,8 @@ Have ideas? Found bugs? Want to help shape MayWeb?
 ---
 
 ## 📌 License
-
-## License
-MayWeb is proprietary software. All rights reserved.
+MayWeb is proprietary software. All rights reserved.  
 See [`LICENSE`](./LICENSE) for details.
-
 ---
 
 ## 🔗 Stay Connected
