@@ -104,7 +104,8 @@ Have ideas? Found bugs? Want to help shape MayWeb?
 
 ## 📌 License
 
-MayWeb is licensed under the MIT License.  
+## License
+MayWeb is proprietary software. All rights reserved.
 See [`LICENSE`](./LICENSE) for details.
 
 ---
