@@ -74,20 +74,21 @@ Unlike XAMPP and Laragon, MayWeb offers:
 ---
 
 ## 📄 Roadmap
-
-- [x] Electron-based UI with blur effects  
-- [x] PHP and MySQL support  
+  
+- [x] PHP Multi-version Switcher
 - [x] Resource monitor built-in  
-- [ ] Plugin system (Coming Soon)  
-- [ ] Built-in HeidiSQL or Adminer  
-- [ ] Light theme + theming support  
-- [ ] Docker & WSL integrations  
+- [x] Plugin system (Coming Soon)  
+- [x] Built-in HeidiSQL or Adminer
+- [x] Apache
+- [x] Nginx
+- [x] Node.js
+- [x] Built-in Website Builder
 
 ---
 
-## 🧑‍💻 Built by Developers, for Developers
+## 🧑‍💻 Built by Hosted25, for Developers
 
-> “I built MayWeb because I was tired of bloated dev tools that looked outdated and felt slow. MayWeb is my vision for a better, modern dev experience — simple, fast, beautiful.”
+> “I built MayWeb because I was tired of bloated dev tools that looked outdated and felt slow. MayWeb is my vision for a better, modern dev experience — simple, fast, beautiful and free.”
 
 ---
 
