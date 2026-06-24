@@ -4,7 +4,7 @@
 
 > Designed for speed. Built for beauty. Powered by real developers.
 
-
+<img width="1920" height="1080" alt="Screenshot 2026-06-24 174211" src="https://github.com/user-attachments/assets/ddca51a2-ff79-467d-bf8a-6900dcbe24e7" />
 <img width="1919" height="1079" alt="Screenshot 2025-08-27 030854" src="https://github.com/user-attachments/assets/da241ca0-54c1-45ac-b09f-093df5d320ef" />
 <img width="989" height="697" alt="Screenshot 2025-08-27 030904" src="https://github.com/user-attachments/assets/aedab26d-2859-43f4-bbf6-42d8c366f785" />
 <img width="1502" height="825" alt="Screenshot 2025-08-27 030948" src="https://github.com/user-attachments/assets/44ca1273-6790-4e7a-8af4-25d6aeba5fb5" />
