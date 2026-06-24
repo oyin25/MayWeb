@@ -10,101 +10,241 @@
 <img width="1920" height="1080" alt="Screenshot 2026-06-24 195553" src="https://github.com/user-attachments/assets/bc439e1b-e37b-4a33-9b51-99ce5a18b91a" />
 <img width="1920" height="1080" alt="Screenshot 2026-06-24 195610" src="https://github.com/user-attachments/assets/36ad6fbd-c6dc-4b8a-bdc6-9a5a70b403fa" />
 
+# 🚀 MayWeb - Modern Local Development Environment for Windows
+
+**MayWeb** is a modern desktop local development environment built for developers who want a cleaner, faster, and more flexible way to run local projects.
+
+It brings together tools like **Apache, Nginx, PHP, MySQL, Node.js, Redis, Mailpit, PostgreSQL, and project utilities** inside one polished Windows app, giving you a central place to manage your local development workflow without dealing with scattered folders, manual service commands, or outdated interfaces.
+
+MayWeb is designed for developers who want power, control, and a better desktop experience.
+
+> Built to make local development feel modern, organized, and easier to manage.
+
+---
+
+## ✨ What is MayWeb?
+
+MayWeb is a Windows desktop controller for local web development.
+
+It helps you run and manage local development services, switch between runtime versions, create and manage projects, download extra modules, monitor system usage, and work with different development stacks from one clean interface.
+
+Whether you are working on a PHP website, a Laravel project, a WordPress setup, a Node.js project, or a simple static site, MayWeb gives you a better way to control your environment.
+
 ---
 
 ## 🔥 Why MayWeb?
 
-MayWeb was created to solve real problems modern devs face every day:
+Most local development tools still feel old, heavy, or limited.
 
-- Tired of cluttered, outdated dev environments?  
-- Want better control without diving into config files?  
-- Looking for a stunning UI that makes local development feel modern and joyful?
+MayWeb was created to make local development feel better:
 
-**MayWeb is your answer.**
+- A cleaner and more modern desktop interface
+- Easier control over local services
+- Support for multiple development stacks
+- Module downloads instead of bundling everything by default
+- PHP version switching
+- Node.js project support
+- Local database tools
+- Live system monitoring
+- A more customizable dashboard
+- A lighter installer compared to older bundled builds
 
----
-
-## ⚙️ Features
-
-### 🧠 Smart Service Control  
-Manage services like Apache, MySQL, Redis, Node.js, PHP, and more — all with a simple, elegant UI.
-
-### 🌙 Glass UI with Dark Mode  
-Enjoy a clean, futuristic interface with a smooth dark gradient, glass blur effects, and polished animations.
-
-### 📈 Live System Stats  
-Track your CPU, RAM, and disk usage in real-time while you build.
-
-### 🔄 One-click Auto Update  
-MayWeb checks for updates and handles installation in the background. No clunky downloads or zip files.
-
-### 🔁 Switch Between PHP Versions  
-Run legacy projects and modern stacks easily — with just a click.
-
-### 📦 Zip-Free Installer  
-No bloated installation files. MayWeb installs like a native app with minimal setup.
+MayWeb is not just another local server package. It is a desktop workspace for managing your local development environment.
 
 ---
 
-## 🚀 Fast & Lightweight
+## ⚙️ Key Features
 
-- Launches instantly, even on low-spec machines  
-- Uses only essential resources when idle  
-- Clean service orchestration – no Windows services required
+### 🧩 Service Control
+
+Start, stop, and manage development services from one interface.
+
+Supported or planned service areas include:
+
+- Apache
+- Nginx
+- MySQL
+- PHP
+- Node.js
+- Redis
+- Mailpit
+- PostgreSQL
+- Other downloadable MayWeb modules
 
 ---
 
-## ✨ What Makes MayWeb Better?
+### 🐘 PHP Version Switching
 
-Unlike XAMPP and Laragon, MayWeb offers:
-- ✅ Modern UI/UX that doesn’t feel like 2005  
-- ✅ No need to install additional tools like HeidiSQL manually — full toolkit integration is on the way  
-- ✅ Better customization for developers who want full control over their environment  
-- ✅ Designed to evolve: modules, theming, and external tooling support are in the roadmap
+Switch between available PHP versions directly inside MayWeb.
+
+This is useful when working with different projects that require different PHP versions.
+
+---
+
+### 🟢 Node.js Project Support
+
+MayWeb is no longer focused only on PHP workflows.
+
+Node.js project support has been improved so developers can manage more types of local projects from the same workspace.
+
+---
+
+### 📦 Module Download System
+
+MayWeb includes a module download system that allows users to download extra runtimes and packages when needed.
+
+This helps keep the main installer smaller while still allowing users to expand MayWeb with extra tools such as:
+
+- Additional PHP versions
+- MySQL packages
+- Apache packages
+- Other supported modules
+
+---
+
+### 🔗 Early Pretty URL Support
+
+MayWeb includes early support for Pretty URL generation.
+
+This feature is still being improved, but it gives users a starting point for cleaner local project URLs and easier local routing.
+
+---
+
+### 📊 Live System Monitoring
+
+Monitor important system usage directly inside the dashboard, including:
+
+- CPU usage
+- Memory usage
+- Disk usage
+- Network activity
+
+This helps you keep an eye on your machine while running local services and projects.
+
+---
+
+### 🧰 Developer Dashboard
+
+MayWeb includes a modern dashboard with:
+
+- Service cards
+- Console, logs, and error tabs
+- Quick actions
+- System information
+- Status bar
+- Project tools
+- Module access
+- Menu shortcuts
+
+The dashboard is designed to feel like a real desktop development tool, not a basic web panel.
+
+---
+
+### 🖥️ Improved Desktop Experience
+
+Recent updates improve how MayWeb feels as a Windows desktop app.
+
+This includes:
+
+- A cleaner startup splash screen
+- Live startup loading messages
+- Better main window behavior
+- Resizable dashboard sections
+- Saved layout preferences
+- Improved UI polish for Windows
+
+---
+
+## 🚀 Lightweight and Flexible
+
+MayWeb is being optimized to stay lighter and easier to install.
+
+Instead of packing every possible runtime into the installer, MayWeb is moving toward a cleaner module-based approach where users can download extra tools when they need them.
+
+This keeps the app easier to download, easier to maintain, and more flexible for different developer setups.
+
+---
+
+## 🆕 MayWeb v3.0.1 Highlights
+
+MayWeb v3.0.1 improves the MayWeb 3.0 foundation with:
+
+- Fixed and improved Module Download page
+- Smaller setup size
+- Better Node.js project handling
+- Early Pretty URL generation
+- Improved startup splash screen
+- Live loading status while the app opens
+- Better Windows desktop window behavior
+- Resizable dashboard layout
+- Improved foundation for dashboard customization
 
 ---
 
 ## 📥 Download MayWeb
 
-**👉 [Download Now via GitHub Releases](https://github.com/oyin25/MayWeb/releases)**
+Download the latest version from GitHub Releases:
 
-> MayWeb is completely free and actively maintained. Community contributions and feedback are always welcome.
-
----
-
-## 📄 Roadmap
-  
-- [x] PHP Multi-version Switcher
-- [x] Resource monitor built-in  
-- [x] Plugin system (Coming Soon)  
-- [x] Built-in HeidiSQL or Adminer
-- [x] Apache
-- [x] Nginx
-- [x] Node.js
-- [x] Built-in Website Builder
+**👉 [Download MayWeb](https://github.com/oyin25/MayWeb/releases)**
 
 ---
 
-## 🧑‍💻 Built by Hosted25, for Developers
+## 🛠️ Built for Developers
 
-> “I built MayWeb because I was tired of bloated dev tools that looked outdated and felt slow. MayWeb is my vision for a better, modern dev experience — simple, fast, beautiful and free.”
+MayWeb is built for people who want a better local development experience.
+
+It is useful for:
+
+- PHP developers
+- Laravel developers
+- WordPress developers
+- Node.js developers
+- Local server testing
+- Multi-version PHP projects
+- Local database work
+- Developers who want a cleaner alternative to traditional local stacks
+
+---
+
+## 🗺️ Roadmap
+
+MayWeb is still growing. Planned and ongoing improvements include:
+
+- More module support
+- Better project management
+- Improved Pretty URL generation
+- Better Node.js workflow tools
+- More database tools
+- Built-in website/project utilities
+- Dashboard customization
+- More polished deployment tools
+- Better documentation
 
 ---
 
 ## 🙌 Contribute
 
-Have ideas? Found bugs? Want to help shape MayWeb?
+MayWeb is actively being improved.
 
-- Fork the repo  
-- Submit pull requests  
-- Open issues  
-- Or just star the project to show love ❤️
+You can help by:
+
+- Reporting bugs
+- Suggesting features
+- Testing new releases
+- Opening GitHub Issues
+- Sharing feedback
+- Starring the project
+
+Your feedback helps shape the next version of MayWeb.
 
 ---
 
 ## 📌 License
-MayWeb is proprietary software. All rights reserved.  
+
+MayWeb is proprietary software. All rights reserved.
+
 See [`LICENSE`](./LICENSE) for details.
+
 ---
 
 ## 🔗 Stay Connected
@@ -114,4 +254,4 @@ See [`LICENSE`](./LICENSE) for details.
 
 ---
 
-> Let’s build something better, together. MayWeb is just getting started.
+> MayWeb is built with one goal: make local development on Windows cleaner, faster, and easier to control.
