@@ -4,12 +4,11 @@
 
 > Designed for speed. Built for beauty. Powered by developers Hosted25.
 
-![Uploading Screenshot 2026-06-24 195610.png…]()
-![Uploading Screenshot 2026-06-24 195553.png…]()
-![Uploading Screenshot 2026-06-24 195524.png…]()
-![Uploading Screenshot 2026-06-24 195449.png…]()
-![Uploading Screenshot 2026-06-24 195432.png…]()
-
+<img width="1920" height="1080" alt="Screenshot 2026-06-24 195610" src="https://github.com/user-attachments/assets/36ad6fbd-c6dc-4b8a-bdc6-9a5a70b403fa" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-24 195553" src="https://github.com/user-attachments/assets/bc439e1b-e37b-4a33-9b51-99ce5a18b91a" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-24 195524" src="https://github.com/user-attachments/assets/0d66f35e-ee79-43e7-b0b7-5d04346e6809" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-24 195449" src="https://github.com/user-attachments/assets/acf3e947-9d33-4d7b-bf55-76a8bd834911" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-24 195432" src="https://github.com/user-attachments/assets/32c29049-8bfe-4c8f-9e0a-8c89b4ca9ae7" />
 
 
 ---
