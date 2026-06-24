@@ -2,7 +2,7 @@
 
 **MayWeb** is a sleek, lightweight, and developer-first local development environment, built to replace bloated stacks like XAMPP and Laragon. Whether you're working on PHP, Node.js, MySQL, Redis, or static apps — MayWeb gives you full control in one powerful desktop tool.
 
-> Designed for speed. Built for beauty. Powered by real developers.
+> Designed for speed. Built for beauty. Powered by developers Hosted25.
 
 ![Uploading Screenshot 2026-06-24 195610.png…]()
 ![Uploading Screenshot 2026-06-24 195553.png…]()
